@@ -1,6 +1,6 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
-import Navbar from "./Navbar";
+import 'Navbar' from './Navbar';
 import VendingMachine from "./VendingMachine";
 import Chips from "./Chips";
 import Sardines from "./Sardines";

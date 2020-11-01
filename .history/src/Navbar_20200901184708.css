@@ -1,0 +1,10 @@
+.Navbar {
+  display: flex;
+  background-color: #000;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Navbar a {
+  color: grey;
+}
